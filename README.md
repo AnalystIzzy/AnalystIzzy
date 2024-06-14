@@ -1,7 +1,7 @@
 - 👋 Hi, I’m AnalystIzzy (Jacob)
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate with a team of Data Analyst
+- 💞️ I’m looking to collaborate with a team of Data enthusiasts
 - 📫 How to reach me Email:isrealeze73@gmail.com
 - ⚡ Fun fact: Football Lover
 
